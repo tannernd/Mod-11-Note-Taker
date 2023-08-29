@@ -1,7 +1,27 @@
 [
 	{
-		"title": "Show me a note",
-		"text": "This is a new note",
+		"title": "Call Bank on Friday",
+		"text": "Need to update credit card information.",
 		"id": "dcf4"
+	},
+	{
+		"title": "Reschedule Delivery",
+		"text": "Missed due to needed signature.",
+		"id": "dcf5"
+	},
+	{
+		"title": "Finish Payroll",
+		"text": "Pay Date is Friday, payroll is due Wednesday.",
+		"id": "dcf6"
+	},
+	{
+		"title": "Check in with Clients",
+		"text": "Ensure they are happy with the delivered service.",
+		"id": "dcf7"
+	},
+	{
+		"title": "Client lunch on Thursday",
+		"text": "Meeting at Chili's.",
+		"id": "dcf8"
 	}
 ]
